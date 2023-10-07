@@ -23,7 +23,7 @@ STEP 6: Do plots like boxplots,countplot,distribution plot,histogram plot.
 Developed by : Gowrisankar.p
 Register number : 212222230041
  ```
-  Diabetes:
+  Diabetes.csv
 ```
 import pandas as pd
 import seaborn as sns
@@ -47,4 +47,4 @@ sns.countplot(x="Glucose",data=df)
 sns.distplot(df['Glucose'])
 sns.histplot(x="Glucose",data=df)
 ```
- Output(Diabetes):
+ Output(Diabetes.csv)
