@@ -79,11 +79,12 @@ sns.distplot(df1["Postal Code"])
 sns.histplot(x="Postal Code",data=df1)
 ```
   Output(SuperStores.csv)
-  https://user-images.githubusercontent.com/118707073/272160258-c01fd877-a11f-4f76-942e-f8b61469d0bd.png
-  https://user-images.githubusercontent.com/118707073/272160328-e03e85ee-9873-4f11-9182-6435206a0570.png
-  https://user-images.githubusercontent.com/118707073/272160278-027f846a-c889-4446-b217-5c9e041be521.png
-  https://user-images.githubusercontent.com/118707073/272160338-d6554d40-d4ce-4ee9-8679-21e2fbf49ebf.png
-  https://user-images.githubusercontent.com/118707073/272160341-50394024-0d2b-4141-95bb-0792351caf8d.png
-  https://user-images.githubusercontent.com/118707073/272160355-4dc2f8ef-9d9e-4408-a4f5-28f2c7091bf0.png
-  https://user-images.githubusercontent.com/118707073/272160370-8c10f57f-7bea-4eb2-8b3d-cb91624fb331.png
-  https://user-images.githubusercontent.com/118707073/272160440-242cf82d-98d0-44c8-a02b-b2b7cd24650f.png
+ ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/db20dc79-e10f-4889-a204-32d3d5fc437d)
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/2549724a-73ab-433b-831f-49f4f8307423)
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/29c43166-9dc7-4e2c-ad2c-2ab0890c61d8)
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/e1ecf630-fc64-4181-a5c4-e34842d7cd8e)
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/bfe55edf-1f70-44d4-8263-25f037a53d49)
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/b812f0ac-c445-4726-9472-2fe62a5a3876)
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/2875bbb5-5126-4828-b669-fd26fe2b2761)
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/379cc7f7-0dea-44d3-b534-92d956d85bf7)
+
