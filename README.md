@@ -75,12 +75,19 @@ sns.histplot(x="Postal Code",data=df1)
 ```
   Output(SuperStores.csv)
  ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/db20dc79-e10f-4889-a204-32d3d5fc437d)
+ 
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/2549724a-73ab-433b-831f-49f4f8307423)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/29c43166-9dc7-4e2c-ad2c-2ab0890c61d8)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/e1ecf630-fc64-4181-a5c4-e34842d7cd8e)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/bfe55edf-1f70-44d4-8263-25f037a53d49)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/b812f0ac-c445-4726-9472-2fe62a5a3876)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/2875bbb5-5126-4828-b669-fd26fe2b2761)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/379cc7f7-0dea-44d3-b534-92d956d85bf7)
   employeesal.csv
 ```
@@ -103,12 +110,19 @@ sns.histplot(x="Experience_Years",data=df)
 Output(employeesal.csv)
 
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/60155f1c-d0d0-4519-8bba-8082d7dda279)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/1c354f16-2677-4be9-8c5a-0b44f97dca88)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/c4fa330f-716c-4e11-a5d0-c2d9a62122b4)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/82355ef3-9945-4cf2-bfd2-60d782cca75b)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/cdeda3d5-9b07-4123-b8bc-79ad66626753)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/78b52658-2159-45b9-aeb5-f18394404eb8)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/78cc6a4b-bd0d-4aa7-b720-e7d35c5b5601)
+
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/24bcca7b-59b1-49aa-b6da-6586f6b2fa88)
 # Result:
 Thus we have read the given data and performed the univariate analysis with different types of plots.
