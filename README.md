@@ -13,3 +13,4 @@ Step4: Mention the datatypes from the data.
 Step5: Count the values from the data.
 Step6: Do plots like boxplots,countplot,distribution plot,histogram plot.
 ## Program:
+ 
