@@ -105,7 +105,7 @@ sns.countplot(x="Experience_Years",data=df)
 sns.distplot(df['Experience_Years'])
 sns.histplot(x="Experience_Years",data=df)
 ```
-  Output(employeesal.csv)
+Output(employeesal.csv)
 
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/60155f1c-d0d0-4519-8bba-8082d7dda279)
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/1c354f16-2677-4be9-8c5a-0b44f97dca88)
