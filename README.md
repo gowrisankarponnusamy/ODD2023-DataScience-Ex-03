@@ -106,7 +106,8 @@ sns.distplot(df['Experience_Years'])
 sns.histplot(x="Experience_Years",data=df)
 ```
   Output(employeesal.csv)
-  ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/60155f1c-d0d0-4519-8bba-8082d7dda279)
+
+![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/60155f1c-d0d0-4519-8bba-8082d7dda279)
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/1c354f16-2677-4be9-8c5a-0b44f97dca88)
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/c4fa330f-716c-4e11-a5d0-c2d9a62122b4)
 ![image](https://github.com/gowrisankarponnusamy/ODD2023-DataScience-Ex-03/assets/119393123/82355ef3-9945-4cf2-bfd2-60d782cca75b)
